@@ -8,7 +8,7 @@ logo:               'assets/img/mylogo2.jpg'
 background:         'assets/img/placeholder-big1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
-url:                http://cropius.github.io
+url:                https://cropius.github.io
 
 # Jekyll
 permalink:          /:title/
