@@ -4,7 +4,7 @@ bio:                'Cropius, a blog and a design brand'
 description:        "A blog focus mainly on user interface design."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/mylogo2.png'
+logo:               'assets/img/mylogo2.jpg'
 background:         'assets/img/placeholder-big1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             zh_CN
